@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=wuxueqian14" width=50% align="right">
+
+Welcome to my page!
+
+I'm Ryan, iOS developer from 🇨🇳 China.
+
+- 🔭 I’m currently studying on HUT. 
+- 🌱 I’m currently learning iOS and Back-end development.
+- 😄 I'm interested in C++/Python/Swift.
+- 📫 How to reach me: raynwxq@outlook.com.

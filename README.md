@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Welcome to my page!
 
-I'm Ryan, iOS developer from 🇨🇳 China.
+I'm Ryan, developer from 🇨🇳 China.
 
-- 🔭 I’m currently studying on HUT. 
-- 🌱 I’m currently learning iOS and Back-end development.
+- 🔭 I’m currently studying on SWJTU. 
+- 🌱 I’m currently learning CS and Back-end development.
 - 😄 I'm interested in C++/Python/Swift.
 - 📫 How to reach me: raynwxq@outlook.com.

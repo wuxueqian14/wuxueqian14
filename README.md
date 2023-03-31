@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Welcome to my page!
 
-I'm Ryan, developer from 🇨🇳 China.
+I'm Ryan, a graduate student.
 
 - 🔭 I’m currently studying on SWJTU. 
 - 🌱 I’m currently learning CS and Back-end development.
-- 😄 I'm interested in C++/Python/Swift.
+- 😄 I'm interested in database and storage.
 - 📫 How to reach me: raynwxq@outlook.com.

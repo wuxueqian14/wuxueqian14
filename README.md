@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Welcome to my page!
 
-I'm Ryan, a graduate student.
+I'm Ryan, a computer science graduate student from HUT.
 
-- 🔭 I’m currently studying on SWJTU. 
-- 🌱 I’m currently learning CS and Back-end development.
-- 😄 I'm interested in database and storage.
+- 🔭 I’m currently studying at home.
+- 🌱 I’m currently learning full stack technology and AI.
+- 😄 I'm interested in AI Agent.
 - 📫 How to reach me: raynwxq@outlook.com.
